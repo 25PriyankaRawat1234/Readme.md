@@ -10,7 +10,7 @@
 </table>
 
        
-<img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=25PriyankaRawat1234 &style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   
@@ -18,13 +18,13 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
+  <a href="https://www.linkedin.com/in/25PriyankaRawat1234 /">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kaggle.com/kdsharma">
+
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
+ 
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a></div></div>
 
@@ -37,8 +37,8 @@
 - 🏢 Currently employed as a Data Analyst in a Marketing Research company.
 - ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
 - 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/kumod-sharma/">My LinkedIn.</a>
-- <p>✍️ Check out my blogs on topics related to data science. You can find them on my <a href="https://medium.com/@kumod.aws">blog profile</a>.</p>
+- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/25PriyankaRawat1234 /">My LinkedIn.</a>
+
 
 <br>
 <br>
